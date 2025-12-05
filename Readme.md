@@ -1,4 +1,11 @@
-# 💫 About Me:
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Darshil+Sisodiya;Fullstack+Dev" alt=""/>
+</a>
+
+## 💫 About Me:
 🎯 I’m currently working on Building intelligent tools and experimenting with AI-driven apps that simplify everyday workflows.<br>🤝 I’m looking to collaborate on Projects involving machine learning, backend systems, or anything that mixes creativity with tech.<br>🧠 I’m looking for help with Optimising real-world AI agents and improving vector-based retrieval pipelines.<br>🌱 I’m currently learning Advanced Python, system design, and better ways to integrate LLMs into production apps.<br>💬 Ask me about AI workflows, FastAPI, PostgreSQL, LangGraph, or anything that sparks curiosity.<br>
 
 
@@ -22,3 +29,4 @@
 [![](https://visitcount.itsvg.in/api?id=darshil-sisodiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
