@@ -1,24 +1,68 @@
-# 💫 About Me:
-🎯 I’m currently working on Building intelligent tools and experimenting with AI-driven apps that simplify everyday workflows.<br>🤝 I’m looking to collaborate on Projects involving machine learning, backend systems, or anything that mixes creativity with tech.<br>🧠 I’m looking for help with Optimising real-world AI agents and improving vector-based retrieval pipelines.<br>🌱 I’m currently learning Advanced Python, system design, and better ways to integrate LLMs into production apps.<br>💬 Ask me about AI workflows, FastAPI, PostgreSQL, LangGraph, or anything that sparks curiosity.<br>
+<!-- --------------------------------------------------------- -->
+<!--                    🌿 A E S T H E T I C  R E A D M E      -->
+<!-- --------------------------------------------------------- -->
 
+<h1 align="center">Hi, I'm H B 👋</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshil-sisodiya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshil.sisodiya@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darshil-sisodiya&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=darshil-sisodiya&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil-sisodiya&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darshil-sisodiya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=900&color=90EE90&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Python+Developer;Building+smart+tools" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=darshil-sisodiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌱 About Me
+
+> a simple dev who likes clean code, good UI, and breaking things just to fix them better
+
+- 🎯 Currently working on **AI-driven tools + automation**
+- 🤝 Open to collaborate on **ML, backend & agent pipelines**
+- 🧠 Learning **system design & advanced Python**
+- 💬 Ask me about **LangGraph, FastAPI, vector search**
+- ⚡ Fun fact: **I think dark mode makes everything better**
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+| Domain | Tools |
+|-------|-------|
+| **Languages** | Python, JavaScript, SQL |
+| **Frameworks** | FastAPI, React Native, LangChain / LangGraph |
+| **Databases** | PostgreSQL, MySQL |
+| **Other** | Docker, Git, REST APIs |
+
+</div>
+
+---
+
+## 🧩 Stats & Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🪄 Aesthetic Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-90EE90?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Python-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves-Dark%20Mode-000000?style=for-the-badge" />
+</p>
+
+---
+
+## ☕ Support My Work
+<p align="center">  
+If you like my projects, consider starring ⭐ my repositories.
+</p>
+
+---
+
+<p align="center">
+  <sub>crafted with calm vibes + clean UI</sub>
+</p>
