@@ -44,13 +44,16 @@
   <a href="darshil.sisodiya@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <!-- <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  /> -->
+    <a href="https://darshilsisodiya.tech/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PORTFOLIO&logo=microsoft-outlook&label=&color=009L21&logoColor=Red&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=darshil-sisodiya&locale=en&mode=daily&theme=city_lights&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=darshil-sisodiya&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
     <br>
     <br>
   <img src="https://github-profile-trophy.vercel.app?username=darshil-sisodiya&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
