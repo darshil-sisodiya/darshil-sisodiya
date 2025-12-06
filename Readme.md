@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="235" src="https://media.licdn.com/dms/image/v2/D4E03AQH97_S-KBcCuw/profile-displayphoto-shrink_400_400/B4EZbKBG3lHoAg-/0/1747146011267?e=1766620800&v=beta&t=P7STjJpDyCSDprdiYuzczYy1XpH-czlAHNlZdJLE4nQ"  />
+<img align="right" height="235" src="https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif"  />
 
 ###
 
