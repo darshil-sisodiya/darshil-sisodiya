@@ -14,12 +14,12 @@
 
 <table>
   <tr>
-    <td style="border: 1px solid #444; border-radius: 8px; padding: 15px; background-color: #111;">
+    <td style="border: 1px solid #444; border-radius: 8px; padding: 15px; background-color: #111;"><h4>
       🎯 I’m currently working on Building intelligent tools and experimenting with AI-driven apps that simplify everyday workflows.<br>
       🤝 I’m looking to collaborate on Projects involving machine learning, backend systems, or anything that mixes creativity with tech.<br>
       🧠 I’m looking for help with Optimising real-world AI agents and improving vector-based retrieval pipelines.<br>
       🌱 I’m currently learning Advanced Python, system design, and better ways to integrate LLMs into production apps.<br>
-      💬 Ask me about AI workflows, FastAPI, PostgreSQL, LangGraph, or anything that sparks curiosity.
+      💬 Ask me about AI workflows, FastAPI, PostgreSQL, LangGraph, or anything that sparks curiosity.</h4>
     </td>
     <td style="vertical-align: top; width: 40%; text-align: center;">
       <img height="245" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc1ZWk4a3Z2bGVqNTUyaTB6YW04eHdwM3BmcmYycW5rYW1ydGhobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif" />
