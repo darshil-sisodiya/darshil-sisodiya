@@ -1,32 +1,75 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+###
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Darshil+Sisodiya;Fullstack+Dev" alt=""/>
-</a>
+<h1 align="left">Hey! I am Darshil, A fullstack Dev.</h1>
 
-## 💫 About Me:
-🎯 I’m currently working on Building intelligent tools and experimenting with AI-driven apps that simplify everyday workflows.<br>🤝 I’m looking to collaborate on Projects involving machine learning, backend systems, or anything that mixes creativity with tech.<br>🧠 I’m looking for help with Optimising real-world AI agents and improving vector-based retrieval pipelines.<br>🌱 I’m currently learning Advanced Python, system design, and better ways to integrate LLMs into production apps.<br>💬 Ask me about AI workflows, FastAPI, PostgreSQL, LangGraph, or anything that sparks curiosity.<br>
+###
+
+<img align="right" height="235" src="https://media.licdn.com/dms/image/v2/D4E03AQH97_S-KBcCuw/profile-displayphoto-shrink_400_400/B4EZbKBG3lHoAg-/0/1747146011267?e=1766620800&v=beta&t=P7STjJpDyCSDprdiYuzczYy1XpH-czlAHNlZdJLE4nQ"  />
+
+###
+
+🎯 I’m currently working on Building intelligent tools and experimenting with AI-driven apps that simplify everyday workflows.<br>🤝 I’m looking to collaborate on Projects involving machine learning, backend systems, or anything that mixes creativity with tech.<br>🧠 I’m looking for help with Optimising real-world AI agents and improving vector-based retrieval pipelines.<br>🌱 I’m currently learning Advanced Python, system design, and better ways to integrate LLMs into production apps.<br>💬 Ask me about AI workflows, FastAPI, PostgreSQL, LangGraph, or anything that sparks curiosity.
+
+###
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="darshil.sisodiya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=darshil-sisodiya&locale=en&mode=daily&theme=city_lights&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+    <br>
+    <br>
+  <img src="https://github-profile-trophy.vercel.app?username=darshil-sisodiya&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshil-sisodiya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshil.sisodiya@gmail.com) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darshil-sisodiya&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=darshil-sisodiya&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil-sisodiya&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+        <br>
+    <br>
+  <img src="https://count.getloli.com/@:darshil-sisodiya?theme=sketch-2&padding=7&scale=1&align=center&pixelated=1&darkmode=1"  />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darshil-sisodiya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=darshil-sisodiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
