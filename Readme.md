@@ -81,6 +81,13 @@
     <br>
   <img src="https://count.getloli.com/@:darshil-sisodiya?theme=sketch-2&padding=7&scale=1&align=center&pixelated=1&darkmode=1"  />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=darshil-sisodiya&theme=dark" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=darshil-sisodiya&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=darshil-sisodiya&layout=compact&theme=dark" />
+</div>
 
 ###
 
